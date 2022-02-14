@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi!I`mChangHo&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi!%20I'm%20ChangHo!&fontSize=80)
 <!--
 **ChangHo-Github/ChangHo-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
