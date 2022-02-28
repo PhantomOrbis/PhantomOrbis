@@ -2,7 +2,12 @@
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-  <img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp   
+<p align="center">
+  <img src="https://img.shields.io/badge/CSharp-6935D3?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+</p>  
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
