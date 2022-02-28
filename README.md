@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi!%20I'm%20ChangHo!&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi!%20I'm%20ChangHo!&fontSize=80)
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-  <img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp   
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
