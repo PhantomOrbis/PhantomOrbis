@@ -14,7 +14,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://phantomneon.notion.site/Resume-308bb82d49354350947d3ba6144f3883"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
+  <a href="https://phantomneon.notion.site/Resume-308bb82d49354350947d3ba6144f3883"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://phantomneon.notion.site/Resume-308bb82d49354350947d3ba6144f3883"/></a>&nbsp
   <a href="mailto:chho1365@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chho1365@gmail.com"/></a>
 </p>
 <br>
