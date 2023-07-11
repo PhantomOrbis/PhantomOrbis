@@ -22,7 +22,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-<a href="https://github.com/PhantomUniversal"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=PhantomUniversal&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/PhantomOrbis"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=PhantomUniversal&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 <br>  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangHo-Github&count_bg=%230FED80&title_bg=%23909090&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
