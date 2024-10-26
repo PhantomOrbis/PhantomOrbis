@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/git-181717?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFD400?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a>&nbsp
 </p>  
 <br>
 
