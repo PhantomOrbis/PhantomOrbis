@@ -3,10 +3,10 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=sharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSharp-000000?style=flat-square&logo=sharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/git-181717?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Firebase-FFD400?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white"/></a>&nbsp
 </p>  
 <br>
