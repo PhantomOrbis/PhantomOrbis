@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/git-181717?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/visualstudio-000000?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
 </p>  
 <br>
 
